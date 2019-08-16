@@ -4,6 +4,11 @@ function App() {
    <div>
        <p>work</p>
        <span>fff</span>
+       <ul>
+           <li>sdsadas</li>
+           <li>asd</li>
+           <li>toli</li>
+       </ul>
    </div>
   );
 }

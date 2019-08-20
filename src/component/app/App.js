@@ -1,16 +1,15 @@
 import React from 'react';
-function App() {
-  return (
-   <div>
-       <p>work</p>
-       <span>fff</span>
-       <ul>
-           <li>sdsadas</li>
-           <li>asd</li>
-           <li>toli</li>
-       </ul>
-   </div>
-  );
+import Head from "../head/head";
+import Randomplanets from "../randomplanets/randomplanets";
+
+export default class App extends React.Component{
+  render() {
+    return(
+        <div>
+        <Head />
+        <Randomplanets />
+        </div>
+    )
+  }
 }
 
-export default App;

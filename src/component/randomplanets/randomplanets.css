@@ -1,0 +1,12 @@
+.random-planets{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+}
+.random-img{
+    padding-right: 50px;
+}
+.random-img>img{
+    width: 200px;
+}

@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cc3eaae-59db-4975-b952-bea1e91ab697" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/component/head/head.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/head/head.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/head/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/loading/loading.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/loading/loading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/randomplanets/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/randomplanets/randomplanets.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/randomplanets/randomplanets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/peopleName/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/peopleName/peopleName.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/app/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/error/erorr.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/error/erorr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/head/head.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/head/head.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/randomplanets/randomplanets.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/randomplanets/randomplanets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/randomplanets/randomplanets.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/randomplanets/randomplanets.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/service/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/api.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,6 +18,14 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -101,6 +107,9 @@
       <workItem from="1566285593039" duration="528000" />
       <workItem from="1566286200735" duration="8237000" />
       <workItem from="1566296471151" duration="2080000" />
+      <workItem from="1566302656360" duration="867000" />
+      <workItem from="1567332428268" duration="315000" />
+      <workItem from="1567332840989" duration="9992000" />
     </task>
     <task id="LOCAL-00001" summary="one">
       <created>1565946897582</created>
@@ -130,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565948985310</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add new">
+      <created>1566302790289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566302790290</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +170,7 @@
     <MESSAGE value="span add" />
     <MESSAGE value="ul add" />
     <MESSAGE value="service add" />
-    <option name="LAST_COMMIT_MESSAGE" value="service add" />
+    <MESSAGE value="add new" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new" />
   </component>
 </project>
